@@ -3,6 +3,7 @@
   "description": "An example for PHP containers executed on Lambda",
   "require": {
     "php": ">=7.3",
+    "bref/bref": "^1.2",
     "nyholm/psr7": "^1.0.0",
     "psr/http-server-handler": "^1.0.0"
   }
